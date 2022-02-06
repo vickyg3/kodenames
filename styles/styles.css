@@ -153,11 +153,11 @@ a {
 }
 
 .red-team, .red-team:hover { 
-  background: #FF8A80;
+  background: #FF69B4;
 }
 
 .blue-team, .blue-team:hover {
-  background: #82B1FF;
+  background: #1E90FF;
 }
 
 .neutral, .neutral:hover {
@@ -185,12 +185,12 @@ a {
 }
 
 #redScore{
-	color: #FF5252;
+	color: #FF69B4;
 	margin-right: 1rem;
-	border-color: #FF8A80;
+	border-color: #FF69B4;
 }
 
 #blueScore{
-	color: #448AFF;
-	border-color: #82B1FF;
+	color: #1E90FF;
+	border-color: #1E90FF;
 }
